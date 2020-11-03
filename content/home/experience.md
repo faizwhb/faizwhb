@@ -18,27 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Scientist in CV/ML"
+  company = "nyris"
+  company_url = "nyris.io"
+  location = "Berlin"
+  date_start = "2017-04-01"
   date_end = ""
-  description = """
+  description = """Develop novel algorithms for visual search(large scale visual recognition, metric learning, domain adaptation, multi-task learning), real-time object detection, motion analysis and scene text detection + description
   Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+
+  * Algorithm Development
+  * Research and Development
+  * Search Quality Metrics
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Computer Vision Software Engineer"
+  company = "TechArete"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Islamabad"
+  date_start = "2013-06-01"
+  date_end = "2014-05-01"
+  description = """Semantic Visual Search. Worked on multimedia information retrieval for broadcast monitoring and ad tracking. This mainly involved classical computer vision for features extraction, codebook creation feature indexing and retrieval based on various voting schemes. The end product provided ad tracking on 10 Television channels and 5 Radio channels."""
 
 +++
