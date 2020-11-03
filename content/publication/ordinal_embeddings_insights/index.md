@@ -34,7 +34,7 @@ tags:
 featured: false
 
 links:
-url_pdf: https://arxiv.org/abs/1912.01666
+url_pdf: AISTATS_Submission.pdf
 #url_project: ''
 
 # Featured image
