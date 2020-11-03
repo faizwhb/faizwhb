@@ -33,6 +33,15 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+    title = "Research Assistant"
+    company = "KOGS-Group, University of Hamburg"
+    company_url = ""
+    location = "Hamburg"
+    date_start = "2015-10-01"
+    date_end = "2017-03-01"
+    description = """Interactive Image Processing. Worked as an image processing developer on the Advanced Manuscripts Analysis Portal(AMAP) project, headed by Prof. H. Siegfried Stiehl. My primary tasks were to implement image processing functionality for manuscript analysis and integrate them into a server. Also, a frontend interface had to be build to facilitate manuscript scholars in using the tool in an intuitive way."""
+
+[[experience]]
   title = "Computer Vision Software Engineer"
   company = "TechArete"
   company_url = ""
@@ -40,5 +49,24 @@ date_format = "Jan 2006"
   date_start = "2013-06-01"
   date_end = "2014-05-01"
   description = """Semantic Visual Search. Worked on multimedia information retrieval for broadcast monitoring and ad tracking. This mainly involved classical computer vision for features extraction, codebook creation feature indexing and retrieval based on various voting schemes. The end product provided ad tracking on 10 Television channels and 5 Radio channels."""
+
+[[experience]]
+      title = "Research Assistant"
+      company = "CV Lab, Lahore University of Management Sciences"
+      company_url = ""
+      location = "Lahore"
+      date_start = "2011-06-01"
+      date_end = "2013-06-01"
+      description = """Geometric Vision. Worked on various projects in the Computer Vision Lab with Dr.Sohaib Khan. Initially, I worked on multi-view 3D reconstruction using unordered images and then I worked on single view 3D reconstruction for outdoor scenarios."""
+
+
+  [[experience]]
+    title = "Research Intern"
+    company = "IUPR, TU Kaiserslautern"
+    company_url = ""
+    location = "Kaiserslautern"
+    date_start = "2012-04-01"
+    date_end = "2012-08-01"
+    description = """Document Image Analysis. Worked in the Image Understanding and Pattern Recognition(IUPR) group under Prof. Thomas Breuel and Prof. Sohaib Khan on the project Mapping Rural Pakistan(MARUP), which involved digitizing cadastral maps. My primary tasks were an extensive literature review for segmentation, form processing and related areas, implementation of segmentation algorithms for character segmentation and line extraction. Also, one of my main tasks was to design an appropriate metric for evaluation of the algorithms."""
 
 +++
