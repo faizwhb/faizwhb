@@ -65,4 +65,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Faiz is a Research Scientist in Computer Vision and Machine Learning at nyris GmbH. His research interests are in understanding deep neural networks, deep neural networks for visual recommendation systems(large scale visual recognition, deep metric learning, domain adaptation), real time object detection, semantic segmentation, and scene text analysis.
+I am a Research Scientist in Computer Vision and Machine Learning at nyris GmbH. His research interests are in understanding deep neural networks, deep neural networks for visual recommendation systems(large scale visual recognition, deep metric learning, domain adaptation), real time object detection, semantic segmentation, and scene text analysis.
