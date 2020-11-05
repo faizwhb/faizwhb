@@ -1,5 +1,5 @@
 ---
-title: Large Scale Visual Recognition
+title: Domain Adaptation
 summary:
 tags:
 - neuralnetworks

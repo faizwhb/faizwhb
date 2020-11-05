@@ -33,8 +33,8 @@ tags:
 -
 featured: false
 
-links:
-url_pdf: AISTATS_Submission.pdf
+links: 
+url_pdf: https://arxiv.org/pdf/1912.01666.pdf
 #url_project: ''
 
 # Featured image
