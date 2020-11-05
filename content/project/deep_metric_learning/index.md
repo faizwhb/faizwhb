@@ -31,7 +31,7 @@ url_video: ""
 # slides: example
 ---
 
-The idea to develop algorithms for deep metric learning. A good API for starting pointing is: https://github.com/KevinMusgrave/pytorch-metric-learning
+Deep metric learning(DML) aims to find an feature embedding space for the images such that images of the same category are closer to each other than images of any other category. As a standard practice in DML, the distance metric used is Euclidean distance and the training pipeline used is to pick N classes and K examples from each the dataset and then mine informative triplets from the minibatch itself. A loss such as triplet loss is used to optimize over the feature space.
 
 
 ### Starting References
@@ -48,6 +48,7 @@ The idea to develop algorithms for deep metric learning. A good API for starting
 1. Batch Feature Erasing - Dai, Zuozhuo, et al. "Batch DropBlock network for person re-identification and beyond." Proceedings of the IEEE International Conference on Computer Vision. 2019.
 2. HORDE - Jacob, Pierre, et al. "Metric learning with horde: High-order regularizer for deep embeddings." Proceedings of the IEEE International Conference on Computer Vision. 2019.
 3. Combination of Global Descriptors - Jun, HeeJae, et al. "Combination of multiple global descriptors for image retrieval." arXiv preprint arXiv:1903.10663 (2019).
+4. Dividing and Conquer - Sanakoyeu, Artsiom, et al. "Divide and conquer the embedding space for metric learning." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019
 
 #### Basic Loss Functions for Metric Learning
 1. Batch Triplet Loss - Hermans, Alexander, Lucas Beyer, and Bastian Leibe. "In defense of the triplet loss for person re-identification." arXiv preprint arXiv:1703.07737 (2017).
@@ -55,4 +56,7 @@ The idea to develop algorithms for deep metric learning. A good API for starting
 3. Group Loss - Elezi, Ismail, et al. "The Group Loss for Deep Metric Learning." arXiv preprint arXiv:1912.00385 (2019).
 
 #### Evaluation Metrics
-1. Evaluation Benchmark Reality Check - Musgrave, Kevin, Serge Belongie, and Ser-Nam Lim. "A metric learning reality check." arXiv preprint arXiv:2003.08505 (2020).
+- Evaluation Benchmark Reality Check - Musgrave, Kevin, Serge Belongie, and Ser-Nam Lim. "A metric learning reality check." arXiv preprint arXiv:2003.08505 (2020).
+
+#### Libraries
+- Pytorch Metric Learning:https://github.com/KevinMusgrave/pytorch-metric-learning
