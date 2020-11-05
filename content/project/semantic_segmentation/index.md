@@ -33,7 +33,6 @@ url_video: ""
 ---
 How can we train an end-to-end model for semantic segmentation? What is the role of architecture and how can we improve to get high resolution prediction maps? How can we deal with resource constraint environments? How can we improve the predictions of the edge pixels?
 
-### Starting References
 #### Standard Architectures
 1. Pyramid Scene Parsing Networks - Zhao, Hengshuang, et al. "Pyramid scene parsing network." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017.
 2. Atrous Convolutions - Chen, Liang-Chieh, et al. "Encoder-decoder with atrous separable convolution for semantic image segmentation." Proceedings of the European conference on computer vision (ECCV). 2018.

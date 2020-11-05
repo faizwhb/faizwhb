@@ -33,7 +33,6 @@ url_video: ""
 How can we train a neural network for image classification? The key questions deal with selecting an architecture, an appropriate loss function, an optimizer, and dealing with unbalanced classes. After getting the proof of concepts rights, the next step is that given so many parameters, how can we efficiently and successfully train a model? Are there any tips or tricks to take advantage of?
 
 
-### Starting References
 #### Architectures
 1. DenseNets - Huang, Gao, et al. "Densely connected convolutional networks." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017.
 2. InceptionV3 - Szegedy, Christian, et al. "Rethinking the inception architecture for computer vision." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.

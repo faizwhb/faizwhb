@@ -34,7 +34,6 @@ url_video: ""
 Deep metric learning(DML) aims to find an feature embedding space for the images such that images of the same category are closer to each other than images of any other category. As a standard practice in DML, the distance metric used is Euclidean distance and the training pipeline used is to pick N classes and K examples from each the dataset and then mine informative triplets from the minibatch itself. A loss such as triplet loss is used to optimize over the feature space.
 
 
-### Starting References
 #### Architectures
 1. DenseNets - Huang, Gao, et al. "Densely connected convolutional networks." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017.
 2. InceptionV3 - Szegedy, Christian, et al. "Rethinking the inception architecture for computer vision." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.

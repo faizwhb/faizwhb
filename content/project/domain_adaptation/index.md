@@ -33,8 +33,6 @@ url_video: ""
 
 Given only labeled data from the source domain(synthetic data), the goal is to learn features such that they transfer to the target domain(real images), which has no labels. The aim is to align the feature distribution of source domain and target domain. A common approach is to train the neural network on both source data and target data, where for source images and predictions are optimized using cross-entropy and a discriminator is trained so that the feature distribution of source and target images is indistinguishable. Other approach based on classical computer vision would be to blending a image from source image into an image from target domain, where source is studio images and target is user taken images.
 
-### Starting References
-
 #### Adversarial Domain Adaptation
 1. Domain Adversarial Training for Neural Networks - Ganin, Yaroslav, et al. "Domain-adversarial training of neural networks." The Journal of Machine Learning Research 17.1 (2016): 2096-2030.
 2. Features Normalization For Adversarial Domain Adaptation - Roy, Subhankar, et al. "Unsupervised domain adaptation using feature-whitening and consensus loss." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.
