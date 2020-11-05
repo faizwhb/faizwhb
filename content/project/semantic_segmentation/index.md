@@ -31,7 +31,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-How can we train an end-to-end model for semantic segmentation? What is the role of architecture and how can we improve to get high resolution prediction maps? How can we deal with resource constraint environments?
+How can we train an end-to-end model for semantic segmentation? What is the role of architecture and how can we improve to get high resolution prediction maps? How can we deal with resource constraint environments? How can we improve the predictions of the edge pixels?
 
 ### Starting References
 #### Standard Architectures
@@ -51,5 +51,6 @@ How can we train an end-to-end model for semantic segmentation? What is the role
 #### Tricks for Training
 - Focal Loss for Unbalanced Classes - Lin, Tsung-Yi, et al. "Focal loss for dense object detection." Proceedings of the IEEE international conference on computer vision. 2017.
 - Boundary Refinement by SegFix - Yuan, Yuhui, et al. "Segfix: Model-agnostic boundary refinement for segmentation." European Conference on Computer Vision. Springer, Cham, 2020.
+
 #### Incorporating Class Information for Segmentation
 1. Object Contextual Representations - Yuan, Yuhui, Xilin Chen, and Jingdong Wang. "Object-Contextual Representations for Semantic Segmentation." arXiv preprint arXiv:1909.11065 (2019).
