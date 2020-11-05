@@ -1,5 +1,5 @@
 ---
-title: Large Scale Visual Recognition
+title: Deep Metric Learning
 summary:
 tags:
 - neuralnetworks
