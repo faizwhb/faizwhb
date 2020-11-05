@@ -5,7 +5,7 @@ authors:
 - Sibel Toprak ...
 - admin
 - et al.
-date: "September 2016"
+date: "2016-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
