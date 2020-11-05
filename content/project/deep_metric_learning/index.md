@@ -57,5 +57,8 @@ Deep metric learning(DML) aims to find an feature embedding space for the images
 #### Evaluation Metrics
 - Evaluation Benchmark Reality Check - Musgrave, Kevin, Serge Belongie, and Ser-Nam Lim. "A metric learning reality check." arXiv preprint arXiv:2003.08505 (2020).
 
+#### Extra:
+- Student Teacher Networks for Metric Learning - Yu, Lu, et al. "Learning metrics from teachers: Compact networks for image embedding." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.
+
 #### Libraries
 - Pytorch Metric Learning:https://github.com/KevinMusgrave/pytorch-metric-learning
