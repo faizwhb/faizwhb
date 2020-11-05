@@ -40,12 +40,14 @@ How can we train a neural network for image classification? The key questions de
 
 #### Optimization
 1. Adam - Kingma, Diederik P., and Jimmy Ba. "Adam: A method for stochastic optimization." arXiv preprint arXiv:1412.6980 (2014).
-2. Stochatic Weighted Average - Izmailov, Pavel, et al. "Averaging weights leads to wider optima and better generalization." 34th Conference on Uncertainty in Artificial Intelligence 2018, UAI 2018. Association For Uncertainty in Artificial Intelligence (AUAI), 2018.
-3. Smith, Leslie N. "Cyclical learning rates for training neural networks." 2017 IEEE Winter Conference on Applications of Computer Vision (WACV). IEEE, 2017.
+2. Batch Normalization - Ioffe, Sergey, and Christian Szegedy. "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift." International Conference on Machine Learning. 2015.
+3. Stochatic Weighted Average - Izmailov, Pavel, et al. "Averaging weights leads to wider optima and better generalization." 34th Conference on Uncertainty in Artificial Intelligence 2018, UAI 2018. Association For Uncertainty in Artificial Intelligence (AUAI), 2018.
+4. Cyclic Learning Rates - Smith, Leslie N. "Cyclical learning rates for training neural networks." 2017 IEEE Winter Conference on Applications of Computer Vision (WACV). IEEE, 2017.
 
 #### Augmentation
 1. AutoAugment - Cubuk, Ekin D., et al. "Autoaugment: Learning augmentation policies from data." arXiv preprint arXiv:1805.09501 (2018).
-2. imgaug - https://github.com/aleju/imgaug
+2. AugMix/MixUp/CutMix/CutOut - Hendrycks, Dan, et al. "AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty." International Conference on Learning Representations. 2019.
+3. imgaug - https://github.com/aleju/imgaug
 
 
 #### Tricks for Training
