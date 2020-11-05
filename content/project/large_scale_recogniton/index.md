@@ -30,8 +30,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-
-The idea to develop novel algorithms that can efficiently train neural networks on a large amounts of data. The key questions of concern are how to select an architecture, how to choose an appropriate loss function, an optimizer, and how to deal with unbalanced classes. After getting the proof of concepts rights, the next step is that given so many parameters, how can we efficiently and successfully train a model?
+How can we train a neural network for image classification? The key questions deal with selecting an architecture, an appropriate loss function, an optimizer, and dealing with unbalanced classes. After getting the proof of concepts rights, the next step is that given so many parameters, how can we efficiently and successfully train a model? Are there any tips or tricks to take advantage of?
 
 
 ### Starting References
