@@ -4,7 +4,7 @@ summary:
 tags:
 - neuralnetworks
 - image_classificaton
-date: ""
+date: "2017-04-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
