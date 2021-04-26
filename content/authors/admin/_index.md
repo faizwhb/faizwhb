@@ -25,7 +25,7 @@ education:
   courses:
   - course: Masters in Intelligent Adaptive Systems
     institution: University of Hamburg
-    year: 2020
+    year: 2021
   - course: Bachelors in Computer Science
     institution: Lahore University of Management Sciences
     year: 2013
@@ -65,4 +65,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Research Scientist in Computer Vision and Machine Learning at nyris GmbH. My research interests are in understanding deep neural networks, deep neural networks for visual recommendation systems. This encompasses large scale visual recognition, deep metric learning, domain adaptation), real time object detection, semantic segmentation, and scene text analysis. To debug and verify the performance of neural networks, I make use of visualization techniques for images and embedding space to understanding trained models.
+I am a Research Scientist in Computer Vision and Machine Learning at nyris GmbH. My research interests are in representation learning in images and videos, understanding and interpretation of neural networks and image synthesis.
