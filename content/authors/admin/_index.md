@@ -65,4 +65,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Research Scientist in Computer Vision and Machine Learning at nyris GmbH. My research interests are in representation learning in images and videos, understanding and interpretation of neural networks and image synthesis.
+I am a Senior Deep Learning and Computer Vision Engineer at Vyking. My research interests are in real time neural networks for object detection and segmentation, recommendation systems, object tracking and video analysis.
