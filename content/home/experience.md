@@ -17,13 +17,28 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "Research Scientist in CV/ML"
+  title = "Senior Deep Learning/Computer Vision"
+  company = "Vyking"
+  company_url = "vyking.io"
+  location = "Berlin"
+  date_start = "2021-09-01"
+  date_end = ""
+  description = """Develop novel algorithms for Real Time Object Detection and Segmentation
+
+  * Algorithm Development: Multi-task Learning, Knowledge Distillation
+  * Engineering: Configuration Management System for Quick Protoyping, Tracking, Deployment and Versioning of Datasets and Models
+  * Quality Metrics: Detection and Segmentation Evaluation, Latency Metrics
+  """
+
+[[experience]]
+  title = "Deep Learning Engineer"
   company = "nyris"
   company_url = "nyris.io"
   location = "Berlin"
   date_start = "2017-04-01"
-  date_end = ""
+  date_end = "2021-08-30"
   description = """Develop novel algorithms for visual search(large scale visual recognition, metric learning, domain adaptation, multi-task learning), real-time object detection, motion analysis and scene text detection + description
   Responsibilities include:
 
