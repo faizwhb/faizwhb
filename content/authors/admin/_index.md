@@ -25,7 +25,7 @@ education:
   courses:
   - course: Masters in Intelligent Adaptive Systems
     institution: University of Hamburg
-    year: 2021
+    year: 2018
   - course: Bachelors in Computer Science
     institution: Lahore University of Management Sciences
     year: 2013
