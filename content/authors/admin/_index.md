@@ -66,4 +66,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Senior Deep Learning and Computer Vision Engineer at Vyking. My research interests are in real time neural networks for object detection and segmentation, recommendation systems, object tracking and video analysis.
+I am a Deep Learning and Computer Vision Engineer. I have extensive experience in the areas of Multi-task Learning, Object Detection, Semantic Segmentation and visual recommender systems. I also have expertise in deep learning for real time constraints like knowledge distillation and efficient neural networks. 
