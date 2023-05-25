@@ -11,7 +11,6 @@ role: Senior Deep Learning Engineer
 # Organizations/Affiliations
 organizations:
 - name: Vyking GmbH
-  url: "vyking.io"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include computer vision, deep neural networks and interpretable models.
