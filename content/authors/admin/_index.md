@@ -25,10 +25,9 @@ education:
   courses:
   - course: Masters in Intelligent Adaptive Systems
     institution: University of Hamburg
-    year: 2018
+    
   - course: Bachelors in Computer Science
     institution: Lahore University of Management Sciences
-    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -66,4 +65,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Deep Learning and Computer Vision Engineer. I have extensive experience in the areas of Multi-task Learning, Object Detection, Semantic Segmentation and visual recommender systems. I also have expertise in deep learning for real time constraints like knowledge distillation and efficient neural networks. 
+I am a Deep Learning and Computer Vision Engineer. I have extensive experience in the areas of Multi-task Learning, Object Detection, Semantic Segmentation and visual recommender systems. I also have expertise in deep learning for real time constraints like knowledge distillation and efficient neural networks

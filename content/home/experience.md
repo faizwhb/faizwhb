@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "vyking.io"
   location = "Berlin"
   date_start = "2021-09-01"
-  date_end = ""
+  date_end = "2022-12-30"
   description = """Develop novel algorithms for Real Time Object Detection and Segmentation
 
   * Algorithm Development: Multi-task Learning, Knowledge Distillation
